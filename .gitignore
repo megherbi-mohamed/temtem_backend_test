@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+uploads
+# src/loader.js
+# Logs
+logs
+*.log
+
+# ENV prod
+# .env
+.env.prod
+.env.example
+.env
+
+package-lock.json
+
